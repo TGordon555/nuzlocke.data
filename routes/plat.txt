@@ -70,6 +70,7 @@ Snowpoint Temple|golbat,graveler,onix,steelix,sneasel,smoochum,jynx,regigigas
 --Galactic HQ|sat2|evil-team|Saturn
 --Spear Pillar|mnj|evil-team|Mars & Jupiter
 --Distortion World|cyr3|evil-team|Cyrus
+Lake Valor|psyduck,golduck,goldeen,seaking,magikarp,gyarados,wobbuffet,lunatone,solrock,staravia,bibarel
 Route 222|magnemite,magneton,mr. mime,electabuzz,wingull,pelipper,luxio,floatzel,gastrodon,glameow,purugly,chatot,tentacool,tentacruel,magikarp,remoraid,gyarados,octillery,sharpedo,skitty
 Sunyshore City|tentacool,tentacruel,wingull,pelipper,mantyke,magikarp,remoraid,staryu,gyarados,octillery
 --Sunyshore Gym|8|gym-leader|Volkner
